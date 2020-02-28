@@ -1,0 +1,16 @@
+{
+  "name": "jsontoxml-parsing-problem",
+  "version": "1.0.0",
+  "description": "app sandbox for reproduction for strong-soap jsonToXml parsing problem",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "strong-soap": "1.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}

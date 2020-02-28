@@ -1,0 +1,40 @@
+{
+  "demandeCreerArticles": {
+    "article": [
+      {
+        "sequence": "{{sequence}}",
+        "designation": "{{designation}}",
+        "prefixeReference": "{{prefixeReference}}",
+        "suffixeReference": "{{suffixeReference}}",
+        "typeEmplacement": "{{typeEmplacement}}",
+        "devise": "{{devise}}",
+        "designationDetaillee": "{{designationDetaillee}}",
+        "designationFournisseur": "{{designationFournisseur}}",
+        "hauteur": "{{hauteur}}",
+        "rayon": "{{rayon}}",
+        "acheteur": "{{acheteur}}",
+        "taille": "{{taille}}",
+        "prixAchat": "{{prixAchat}}",
+        "ean13": "{{ean13}}",
+        "gestionDeStock": "{{gestionDeStock}}",
+        "referenceOuverte": "{{referenceOuverte}}",
+        "prixModifiable": "{{prixModifiable}}",
+        "familleMarketing": "{{familleMarketing}}",
+        "fournisseurPrincipal": "{{fournisseurPrincipal}}",
+        "referenceFournisseur": "{{referenceFournisseur}}",
+        "livrabilite": "{{livrabilite}}",
+        "dateDebutValidite": "{{dateDebutValidite}}",
+        "prixVente": {
+          "offre": "{{offre1}}",
+          "montant": "{{montant1}}"
+        },
+        "nomenclature": {
+          "code": "{{code}}",
+          "niveau1": "{{niveau1}}",
+          "niveau2": "{{niveau2}}",
+          "niveau3": "{{niveau3}}"
+        }
+      }
+    ]
+  }
+}

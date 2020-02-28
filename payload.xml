@@ -1,0 +1,138 @@
+<demandeCreerArticles>
+  <article>
+    <sequence>1</sequence>
+    <designation>PSG M NK VAPOR MTCH JSY SS HM</designation>
+    <prefixeReference>31</prefixeReference>
+    <suffixeReference>0</suffixeReference>
+    <typeEmplacement>T01</typeEmplacement>
+    <devise>EUR</devise>
+    <designationDetaillee>PSG M NK VAPOR MTCH JSY SS HM</designationDetaillee>
+    <designationFournisseur>TEST</designationFournisseur>
+    <hauteur>1</hauteur>
+    <rayon>MAI</rayon>
+    <acheteur>NIK</acheteur>
+    <taille>XXL</taille>
+    <prixAchat>68.29</prixAchat>
+    <ean13>192501923886</ean13>
+    <gestionDeStock>1</gestionDeStock>
+    <referenceOuverte>0</referenceOuverte>
+    <prixModifiable>1</prixModifiable>
+    <familleMarketing>PAR</familleMarketing>
+    <fournisseurPrincipal>2074699</fournisseurPrincipal>
+    <referenceFournisseur>AJ5265-411 2XL</referenceFournisseur>
+    <livrabilite>LIV</livrabilite>
+    <dateDebutValidite>02/11/2019</dateDebutValidite>
+    <prixVente>
+      <offre>MIS01</offre>
+      <montant>139,9</montant>
+    </prixVente>
+    <nomenclature>
+      <code>F</code>
+      <niveau1>920</niveau1>
+      <niveau2>A</niveau2>
+      <niveau3>MER</niveau3>
+    </nomenclature>
+  </article>
+  <article>
+    <sequence>2</sequence>
+    <designation>PSG M NK VAPOR MTCH JSY SS HM</designation>
+    <prefixeReference>31</prefixeReference>
+    <suffixeReference>0</suffixeReference>
+    <typeEmplacement>T01</typeEmplacement>
+    <devise>EUR</devise>
+    <designationDetaillee>PSG M NK VAPOR MTCH JSY SS HM</designationDetaillee>
+    <designationFournisseur>TEST</designationFournisseur>
+    <hauteur>1</hauteur>
+    <rayon>MAI</rayon>
+    <acheteur>NIK</acheteur>
+    <taille>L</taille>
+    <prixAchat>68.29</prixAchat>
+    <ean13>192501923862</ean13>
+    <gestionDeStock>1</gestionDeStock>
+    <referenceOuverte>0</referenceOuverte>
+    <prixModifiable>1</prixModifiable>
+    <familleMarketing>PAR</familleMarketing>
+    <fournisseurPrincipal>2074699</fournisseurPrincipal>
+    <referenceFournisseur>AJ5265-411 L</referenceFournisseur>
+    <livrabilite>LIV</livrabilite>
+    <dateDebutValidite>02/11/2019</dateDebutValidite>
+    <prixVente>
+      <offre>MIS01</offre>
+      <montant>139,9</montant>
+    </prixVente>
+    <nomenclature>
+      <code>F</code>
+      <niveau1>920</niveau1>
+      <niveau2>A</niveau2>
+      <niveau3>MER</niveau3>
+    </nomenclature>
+  </article>
+  <article>
+    <sequence>3</sequence>
+    <designation>PSG M NK VAPOR MTCH JSY SS HM</designation>
+    <prefixeReference>31</prefixeReference>
+    <suffixeReference>0</suffixeReference>
+    <typeEmplacement>T01</typeEmplacement>
+    <devise>EUR</devise>
+    <designationDetaillee>PSG M NK VAPOR MTCH JSY SS HM</designationDetaillee>
+    <designationFournisseur>TEST</designationFournisseur>
+    <hauteur>1</hauteur>
+    <rayon>MAI</rayon>
+    <acheteur>NIK</acheteur>
+    <taille>M</taille>
+    <prixAchat>68.29</prixAchat>
+    <ean13>192501923855</ean13>
+    <gestionDeStock>1</gestionDeStock>
+    <referenceOuverte>0</referenceOuverte>
+    <prixModifiable>1</prixModifiable>
+    <familleMarketing>PAR</familleMarketing>
+    <fournisseurPrincipal>2074699</fournisseurPrincipal>
+    <referenceFournisseur>AJ5265-411 M</referenceFournisseur>
+    <livrabilite>LIV</livrabilite>
+    <dateDebutValidite>02/11/2019</dateDebutValidite>
+    <prixVente>
+      <offre>MIS01</offre>
+      <montant>139,9</montant>
+    </prixVente>
+    <nomenclature>
+      <code>F</code>
+      <niveau1>920</niveau1>
+      <niveau2>A</niveau2>
+      <niveau3>MER</niveau3>
+    </nomenclature>
+  </article>
+  <article>
+    <sequence>4</sequence>
+    <designation>PSG M NK VAPOR MTCH JSY SS HM</designation>
+    <prefixeReference>31</prefixeReference>
+    <suffixeReference>0</suffixeReference>
+    <typeEmplacement>T01</typeEmplacement>
+    <devise>EUR</devise>
+    <designationDetaillee>PSG M NK VAPOR MTCH JSY SS HM</designationDetaillee>
+    <designationFournisseur>TEST</designationFournisseur>
+    <hauteur>1</hauteur>
+    <rayon>MAI</rayon>
+    <acheteur>NIK</acheteur>
+    <taille>S</taille>
+    <prixAchat>68.29</prixAchat>
+    <ean13>192501923848</ean13>
+    <gestionDeStock>1</gestionDeStock>
+    <referenceOuverte>0</referenceOuverte>
+    <prixModifiable>1</prixModifiable>
+    <familleMarketing>PAR</familleMarketing>
+    <fournisseurPrincipal>2074699</fournisseurPrincipal>
+    <referenceFournisseur>AJ5265-411 S</referenceFournisseur>
+    <livrabilite>LIV</livrabilite>
+    <dateDebutValidite>02/11/2019</dateDebutValidite>
+    <prixVente>
+      <offre>MIS01</offre>
+      <montant>139,9</montant>
+    </prixVente>
+    <nomenclature>
+      <code>F</code>
+      <niveau1>920</niveau1>
+      <niveau2>A</niveau2>
+      <niveau3>MER</niveau3>
+    </nomenclature>
+  </article>
+</demandeCreerArticles>
